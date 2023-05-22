@@ -5,6 +5,7 @@ DIAGRAMA ENTIDAD RELACION
 
 DIAGRAMA DE REDES
 ![diagrama-redes](Diagrama_Redes_Equipo_7.png)
+![diagrama-redes-equipo-7](Infra/diagrama-redes-equipo-7.pdf)
 
 ## Getting started
 
